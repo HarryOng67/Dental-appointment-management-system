@@ -1,0 +1,4 @@
+1,Paracetamol,62,0.50
+3,Ulcer Cream,100,23
+5,Amoxicillin,10,12.50
+6,Ibuprofen,100,1.50

@@ -1,0 +1,10 @@
+Benjamin,000000000002,0789,benjamin@gmail.com,Male,Ben@2025,Active
+Harry,070120070403,0138906873,harry@gmail.com,Male,Admin123!,Active
+MARCUS,123456789012,123456789,12345@gmail.com,male,Marcus123!,Active
+Tan,071234075678,0123456789,Tan@gmail.com,Female,Abc123456!,Active
+CWL,123456789098,1234567890,CWL@gmail.com,female,Abcdefg@123,Active
+Harry,123412341234,0123456789,abc@gmail.com,Male,Harry123456!,Active
+Huii,123123123123,0121212121212,huii@gmail.com,Female,Hui12345!,Active
+Hui,123451234512,01234534512,Hui@gmail.com,Female,Hui@12345,Active
+dddd,111111111111,111111111111111,11@gmail.com,Male,Abcdefg@123,Active
+SDFGHJ,070207091888,1346678955,59_@gmail.com,Male,Qwer1234@,Active
